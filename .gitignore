@@ -1,0 +1,26 @@
+# Archivos generados por Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+wheels/
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Editores e IDEs
+.vscode/
+.idea/
+*.swp
+
+# Archivos temporales del solver CBC (PuLP)
+*.lp
+*.mps
+*.sol
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
